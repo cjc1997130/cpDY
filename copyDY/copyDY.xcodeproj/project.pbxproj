@@ -95,7 +95,7 @@
 		F839AAB91F1D58820094ED7B /* copyDY */ = {
 			isa = PBXGroup;
 			children = (
-				F8DF32621F2D9D92009CCCC0 /* Classes */,
+				F8DF326A1F2D9FE8009CCCC0 /* Classes */,
 				F839AABA1F1D58820094ED7B /* AppDelegate.swift */,
 				F839AABE1F1D58820094ED7B /* Main.storyboard */,
 				F839AAC11F1D58820094ED7B /* Assets.xcassets */,
@@ -123,63 +123,63 @@
 			path = copyDYUITests;
 			sourceTree = "<group>";
 		};
-		F8DF32621F2D9D92009CCCC0 /* Classes */ = {
+		F8DF326A1F2D9FE8009CCCC0 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				F8DF32631F2D9D92009CCCC0 /* Follow */,
-				F8DF32641F2D9D92009CCCC0 /* Home */,
-				F8DF32661F2D9D92009CCCC0 /* Live */,
-				F8DF32671F2D9D92009CCCC0 /* Main */,
-				F8DF32681F2D9D92009CCCC0 /* Profile */,
-				F8DF32691F2D9D92009CCCC0 /* Tools */,
+				F8DF326B1F2D9FE8009CCCC0 /* Follow */,
+				F8DF326C1F2D9FE8009CCCC0 /* Home */,
+				F8DF326E1F2D9FE8009CCCC0 /* Live */,
+				F8DF326F1F2D9FE8009CCCC0 /* Main */,
+				F8DF32701F2D9FE8009CCCC0 /* Profile */,
+				F8DF32711F2D9FE8009CCCC0 /* Tools */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		F8DF32631F2D9D92009CCCC0 /* Follow */ = {
+		F8DF326B1F2D9FE8009CCCC0 /* Follow */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Follow;
 			sourceTree = "<group>";
 		};
-		F8DF32641F2D9D92009CCCC0 /* Home */ = {
+		F8DF326C1F2D9FE8009CCCC0 /* Home */ = {
 			isa = PBXGroup;
 			children = (
-				F8DF32651F2D9D92009CCCC0 /* Follow */,
+				F8DF326D1F2D9FE8009CCCC0 /* Follow */,
 			);
 			path = Home;
 			sourceTree = "<group>";
 		};
-		F8DF32651F2D9D92009CCCC0 /* Follow */ = {
+		F8DF326D1F2D9FE8009CCCC0 /* Follow */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Follow;
 			sourceTree = "<group>";
 		};
-		F8DF32661F2D9D92009CCCC0 /* Live */ = {
+		F8DF326E1F2D9FE8009CCCC0 /* Live */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Live;
 			sourceTree = "<group>";
 		};
-		F8DF32671F2D9D92009CCCC0 /* Main */ = {
+		F8DF326F1F2D9FE8009CCCC0 /* Main */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Main;
 			sourceTree = "<group>";
 		};
-		F8DF32681F2D9D92009CCCC0 /* Profile */ = {
+		F8DF32701F2D9FE8009CCCC0 /* Profile */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Profile;
 			sourceTree = "<group>";
 		};
-		F8DF32691F2D9D92009CCCC0 /* Tools */ = {
+		F8DF32711F2D9FE8009CCCC0 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
 			);
