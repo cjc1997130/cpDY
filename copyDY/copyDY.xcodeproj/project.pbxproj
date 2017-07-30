@@ -412,7 +412,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = copyDY/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cjc.copyDY;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,7 +426,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				INFOPLIST_FILE = copyDY/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cjc.copyDY;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -505,6 +509,7 @@
 				F839AAE11F1D58820094ED7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F839AAE21F1D58820094ED7B /* Build configuration list for PBXNativeTarget "copyDYTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +518,7 @@
 				F839AAE41F1D58820094ED7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F839AAE51F1D58820094ED7B /* Build configuration list for PBXNativeTarget "copyDYUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +527,7 @@
 				F839AAE71F1D58820094ED7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
